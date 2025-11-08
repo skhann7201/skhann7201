@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Shahnaz Khan
+# 👋 Hi, I’m Shahnaz
 - I am currently majoring in Computer Science, focusing on Data Science and Artificial Intelligence.
 - I’m interested in leveraging technology to address real-world challenges and contribute to community-driven projects.
 - I’m looking to collaborate on initiatives that merge technical innovation with social impact.
